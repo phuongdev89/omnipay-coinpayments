@@ -1,5 +1,5 @@
 {
-	"name" : "navatech/omnipay-coinpayments",
+	"name" : "phuongdev89/omnipay-coinpayments",
 	"type" : "library",
 	"description" : "Coinpayments driver for the Omnipay payment processing library",
 	"keywords" : [
@@ -12,12 +12,12 @@
 		"pay",
 		"payment"
 	],
-	"homepage" : "https://github.com/navatech/omnipay-coinpayments",
+	"homepage" : "https://github.com/phuongdev89/omnipay-coinpayments",
 	"license" : "MIT",
 	"authors" : [
 		{
-			"name" : "Le Phuong",
-			"email" : "phuong17889@gmail.com"
+			"name" : "Phuong Dev",
+			"email" : "phuongdev89@gmail.com"
 		}
 	],
 	"autoload" : {
